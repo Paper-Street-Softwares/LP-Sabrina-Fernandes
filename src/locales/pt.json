@@ -27,7 +27,7 @@
     }
   },
   "features": {
-    "miniTag": "A_Definir",
+    "miniTag": "Áreas de Atuação",
     "title": "A_Definir",
     "subtitle": "A_Definir",
     "card1": {
@@ -85,12 +85,12 @@
       "alt": "imagem about"
     },
     "miniTag": "A_Definir",
-    "title": "A_Definir",
+    "title": "Minha trajetória",
     "subtitle": "A_Definir",
     "buttonModalLabelAbout": "Continuar lendo",
-    "paragraph":"A_Definir",
+    "paragraph": "A_Definir",
     "modal": "a_Definir",
-    "ctaButtonAriaLabel": "",
+    "ctaButtonAriaLabel": " Quer saber mais sobre nós? Clique abaixo 👇",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {
       "miniTag": "A_Definir",
