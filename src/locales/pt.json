@@ -103,7 +103,7 @@
     }
   },
   "ctaSecondary": {
-    "title": "<span class=\"text-primary font-bold\">Dúvidas?</span> Entre em contato conosco para podermos lhe ajudar, <span class=\"text-primary font-bold\">estamos te esperando.</span>",
+    "title": "<span class=\"text-primary font-bold\">Precisa</span> de apoio em diligências jurídicas? <span class=\"text-primary font-bold\">Conte comigo para agilizar seu processo!</span>",
     "subtitleDireitaPartes": ["E N T R E", "E M", "C O N T A T O", "V I A"],
     "titleDireita": "WhatsApp",
     "ctaButtonText": "Entre em Contato"
@@ -115,22 +115,22 @@
     "cards": {
       "card1": {
         "stepNumber": 1,
-        "cardTitle": "Consulta inicial",
-        "cardDescription": "Realizamos uma reunião para entender seu caso e identificar suas necessidades jurídicas."
+        "cardTitle": "Briefing inicial",
+        "cardDescription": "Recebo sua solicitação (audiência, protocolo, cópias, carga, diligência em cartório/foro, retirada de alvará, distribuição, visitas in loco etc.), confirmo disponibilidade, prazos, foro/local e orçamento."
       },
       "card2": {
         "stepNumber": 2,
-        "cardTitle": "Análise detalhada",
-        "cardDescription": "Examinamos todos os aspectos do seu caso, revisando documentos e evidências para obter uma visão completa."
+        "cardTitle": "Análise e conferência",
+        "cardDescription": "Reviso minutas, documentos e orientações do escritório, organizo um checklist e, se necessário, solicito complementos para garantir a execução fiel ao seu padrão."
       },
       "card3": {
         "stepNumber": 3,
-        "cardTitle": "Elaboração da estratégia",
-        "cardDescription": "Criamos uma estratégia jurídica personalizada para proteger seus interesses de maneira eficaz."
+        "cardTitle": "Execução da diligência",
+        "cardDescription": "Envio relatório objetivo no prazo combinado, com todos os comprovantes digitalizados. Fico à disposição para ajustes, novas diligências correlatas e emissão de nota/fatura para encerramento."
       },
       "card4": {
         "stepNumber": 4,
-        "cardTitle": "Ação legal",
+        "cardTitle": "Entrega e follow-up",
         "cardDescription": "Iniciamos e conduzimos as ações judiciais ou o serviço contratado, buscando justiça e soluções personalizadas conforme a necessidade do seu caso."
       }
     }
@@ -150,19 +150,19 @@
     "questions": {
       "question1": {
         "question": "Como posso contratar seus serviços?",
-        "answer": "Agende sua consulta conosco via WhatsApp e conversaremos sobre suas necessidades e avaliaremos os custos."
+        "answer": "Entre em contato pelo WhatsApp ou e-mail, informando a diligência desejada (audiência, protocolo, cópia, carga, certidão etc.). Retornarei com a confirmação de disponibilidade, prazo e orçamento."
       },
       "question2": {
-        "question": "Qual é o prazo médio para resolução de um caso?",
-        "answer": "O prazo médio varia conforme a complexidade, mas discutiremos uma estimativa durante a consulta inicial."
+        "question": "Qual é o prazo médio para execução de uma diligência?",
+        "answer": "O prazo varia conforme o tipo de serviço e o local da solicitação, mas sempre informo uma estimativa no momento da contratação."
       },
       "question3": {
-        "question": "Quais documentos devo levar para a consulta?",
-        "answer": "Traga os documentos relevantes ao seu caso, como contratos, correspondências e registros, além de documentos pessoais e comprovante de residência."
+        "question": "Quais informações preciso enviar para a solicitação?",
+        "answer": "É importante encaminhar as orientações do escritório, documentos necessários, minutas (se houver) e dados completos do processo para garantir a execução correta da diligência."
       },
       "question4": {
-        "question": "Vocês oferecem serviços de consultoria preventiva?",
-        "answer": "Sim, oferecemos consultoria preventiva para evitar problemas futuros e garantir conformidade legal."
+        "question": "Você também realiza acompanhamento processual ou serviços contínuos?",
+        "answer": "Sim, além de diligências pontuais, também ofereço acompanhamento processual e serviços recorrentes conforme a necessidade do escritório."
       }
     },
     "paragraph": "Clique aqui caso tenha mais dúvidas"
