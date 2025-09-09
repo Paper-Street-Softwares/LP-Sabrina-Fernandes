@@ -2,9 +2,9 @@
   "infos": {
     "adress": "A_Definir <br/> A_Definir",
     "adressSecundario": "A_Definir",
-    "expediente": "Segunda a sexta-feira: <br/> A_Definir",
+    "expediente": "Segunda a sexta-feira: <br/> 8h às 20h",
     "expedienteSecundario": "A_Definir",
-    "obs": "A_Definir"
+    "obs": "Atendimento 24h em casos criminais."
   },
   "navbar": {
     "menuItems": {
@@ -18,57 +18,57 @@
     "ctaButtonTextResponsive": "Contato"
   },
   "hero": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir <span class=\"text-primary font-bold\">A_Definir</span>",
-    "subtitle": "A_Definir",
-    "ctaButtonText": "A_Definir",
+    "miniTag": "CORRESPONDENTE JURÍDICO EM ITUPEVA - SP",
+    "title": "Cada decisão jurídica tem <span class=\"text-primary font-bold\">um peso</span>",
+    "subtitle": "No divórcio, na guarda ou no inventário, escolher com clareza faz toda a diferença.",
+    "ctaButtonText": "Quero orientação segura",
     "obsHero": {
-      "text": "A_Definir"
+      "text": "Atendimento presencial com hora marcada e online para todo território nacional."
     }
   },
   "features": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "Áreas de Atuação",
+    "title": "Atendimento jurídico em diferentes áreas do Direito",
+    "subtitle": "Atuo com dedicação para oferecer soluções completas e personalizadas, respeitando as particularidades de cada caso.",
     "card1": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Pensão e Guarda",
+      "subtitle": "Soluções jurídicas para pensão alimentícia e guarda.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card2": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Divórcio",
+      "subtitle": "Assessoria completa em separações e dissolução conjugal.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card3": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Inventário",
+      "subtitle": "Apoio jurídico na partilha de bens e sucessões familiares.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card4": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Criminal",
+      "subtitle": "Defesa estratégica em processos criminais e investigações.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir",
       "servicesButton": "A_Definir"
     },
     "card5": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Trabalhista",
+      "subtitle": "Representação em causas trabalhistas e direitos do trabalho.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card6": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Previdenciário",
+      "subtitle": "Consultoria e ações sobre aposentadorias e benefícios do INSS.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
@@ -84,13 +84,13 @@
     "imagem": {
       "alt": "imagem about"
     },
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "QUEM É SABRINA FERNANDES - CORRESPONDENTE JURÍDICO",
+    "title": "Minha trajetória",
+    "subtitle": "Compromisso, ética e estratégia em cada detalhe da sua causa jurídica",
     "buttonModalLabelAbout": "Continuar lendo",
-    "paragraph":"A_Definir",
-    "modal": "a_Definir",
-    "ctaButtonAriaLabel": "",
+    "paragraph": "Atuo com ética, técnica e comprometimento para oferecer soluções seguras e eficazes. <br/><br/>Minha missão é orientar cada pessoa com clareza e responsabilidade, sempre buscando os melhores resultados. ",
+    "modal": "Atuo com ética, técnica e comprometimento para oferecer soluções seguras e eficazes. <br/><br/> Minha missão é orientar cada pessoa com clareza e responsabilidade, sempre buscando os melhores resultados. <br/><br/> Acredito que cada situação é única e merece uma atenção personalizada. Por isso, escuto com empatia, respeito às particularidades de cada contexto e trabalho com estratégia e discrição. <br/><br/> Mais do que representar interesses, estou aqui para apoiar, acolher e construir caminhos justos e equilibrados para você e sua família.",
+    "ctaButtonAriaLabel": " Quer saber mais sobre nós? Clique abaixo 👇",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {
       "miniTag": "A_Definir",
@@ -103,7 +103,7 @@
     }
   },
   "ctaSecondary": {
-    "title": "<span class=\"text-primary font-bold\">Dúvidas?</span> Entre em contato conosco para podermos lhe ajudar, <span class=\"text-primary font-bold\">estamos te esperando.</span>",
+    "title": "<span class=\"text-primary font-bold\">Precisa</span> de apoio em diligências jurídicas? <span class=\"text-primary font-bold\">Conte comigo para agilizar seu processo!</span>",
     "subtitleDireitaPartes": ["E N T R E", "E M", "C O N T A T O", "V I A"],
     "titleDireita": "WhatsApp",
     "ctaButtonText": "Entre em Contato"
@@ -115,22 +115,22 @@
     "cards": {
       "card1": {
         "stepNumber": 1,
-        "cardTitle": "Consulta inicial",
-        "cardDescription": "Realizamos uma reunião para entender seu caso e identificar suas necessidades jurídicas."
+        "cardTitle": "Briefing inicial",
+        "cardDescription": "Recebo sua solicitação (audiência, protocolo, cópias, carga, diligência em cartório/foro, retirada de alvará, distribuição, visitas in loco etc.), confirmo disponibilidade, prazos, foro/local e orçamento."
       },
       "card2": {
         "stepNumber": 2,
-        "cardTitle": "Análise detalhada",
-        "cardDescription": "Examinamos todos os aspectos do seu caso, revisando documentos e evidências para obter uma visão completa."
+        "cardTitle": "Análise e conferência",
+        "cardDescription": "Reviso minutas, documentos e orientações do escritório, organizo um checklist e, se necessário, solicito complementos para garantir a execução fiel ao seu padrão."
       },
       "card3": {
         "stepNumber": 3,
-        "cardTitle": "Elaboração da estratégia",
-        "cardDescription": "Criamos uma estratégia jurídica personalizada para proteger seus interesses de maneira eficaz."
+        "cardTitle": "Execução da diligência",
+        "cardDescription": "Envio relatório objetivo no prazo combinado, com todos os comprovantes digitalizados. Fico à disposição para ajustes, novas diligências correlatas e emissão de nota/fatura para encerramento."
       },
       "card4": {
         "stepNumber": 4,
-        "cardTitle": "Ação legal",
+        "cardTitle": "Entrega e follow-up",
         "cardDescription": "Iniciamos e conduzimos as ações judiciais ou o serviço contratado, buscando justiça e soluções personalizadas conforme a necessidade do seu caso."
       }
     }
@@ -150,19 +150,19 @@
     "questions": {
       "question1": {
         "question": "Como posso contratar seus serviços?",
-        "answer": "Agende sua consulta conosco via WhatsApp e conversaremos sobre suas necessidades e avaliaremos os custos."
+        "answer": "Entre em contato pelo WhatsApp ou e-mail, informando a diligência desejada (audiência, protocolo, cópia, carga, certidão etc.). Retornarei com a confirmação de disponibilidade, prazo e orçamento."
       },
       "question2": {
-        "question": "Qual é o prazo médio para resolução de um caso?",
-        "answer": "O prazo médio varia conforme a complexidade, mas discutiremos uma estimativa durante a consulta inicial."
+        "question": "Qual é o prazo médio para execução de uma diligência?",
+        "answer": "O prazo varia conforme o tipo de serviço e o local da solicitação, mas sempre informo uma estimativa no momento da contratação."
       },
       "question3": {
-        "question": "Quais documentos devo levar para a consulta?",
-        "answer": "Traga os documentos relevantes ao seu caso, como contratos, correspondências e registros, além de documentos pessoais e comprovante de residência."
+        "question": "Quais informações preciso enviar para a solicitação?",
+        "answer": "É importante encaminhar as orientações do escritório, documentos necessários, minutas (se houver) e dados completos do processo para garantir a execução correta da diligência."
       },
       "question4": {
-        "question": "Vocês oferecem serviços de consultoria preventiva?",
-        "answer": "Sim, oferecemos consultoria preventiva para evitar problemas futuros e garantir conformidade legal."
+        "question": "Você também realiza acompanhamento processual ou serviços contínuos?",
+        "answer": "Sim, além de diligências pontuais, também ofereço acompanhamento processual e serviços recorrentes conforme a necessidade do escritório."
       }
     },
     "paragraph": "Clique aqui caso tenha mais dúvidas"
