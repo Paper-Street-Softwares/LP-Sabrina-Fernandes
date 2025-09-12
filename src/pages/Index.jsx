@@ -15,6 +15,7 @@ import { useTranslation } from "react-i18next";
 import "./../i18n";
 import Button from "../components/interactives/Button";
 import UnderConstruction from "../components/interactives/UnderConstruction";
+import Team from "../components/sections/Team";
 
 export default function Index() {
   const showUnderConstruction = false;
@@ -75,6 +76,7 @@ export default function Index() {
 
       <About modal={true} showGallery={false} colorMode={colorMode} />
       {/* <AboutInstagram colorMode={colorMode} socialPrint={true} /> */}
+      <Team />
       <CtaSecondary />
       <Steps colorMode={colorMode} />
       {/* <BlogPosts /> */}
