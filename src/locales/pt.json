@@ -101,6 +101,21 @@
       "labelX": "A_Definir"
     }
   },
+  "team": {
+    "minitag": "PARCERIAS",
+    "title": "Nossas parcerias Jurídicas",
+    "subtitle": "Profissionais qualificados que atuam em conjunto para oferecer soluções completas e seguras.",
+    "members": {
+      "member1": {
+        "name": "Dr. André Felipe Amorim PassareteOAB/SP n 486.663",
+        "role": "Atuação em casos cíveis e criminais."
+      },
+      "member2": {
+        "name": "Dra. Marina Zanotello OAB/SP 261.731",
+        "role": "Especialista em casos criminais."
+      }
+    }
+  },
   "ctaSecondary": {
     "title": "<span class=\"text-primary font-bold\">Precisa</span> de apoio em diligências jurídicas? <span class=\"text-primary font-bold\">Conte comigo para agilizar seu processo!</span>",
     "subtitleDireitaPartes": ["E N T R E", "E M", "C O N T A T O", "V I A"],
@@ -130,7 +145,7 @@
       "card4": {
         "stepNumber": 4,
         "cardTitle": "Entrega e follow-up",
-        "cardDescription": "Envio relatório objetivo no prazo combinado, com todos os comprovantes digitalizados. Fico à disposição para ajustes, novas diligências correlatas."
+        "cardDescription": "LP-Sabrina-Fernandes"
       }
     }
   },
