@@ -107,11 +107,11 @@
     "subtitle": "Profissionais qualificados que atuam em conjunto para oferecer soluções completas e seguras.",
     "members": {
       "member1": {
-        "name": "Dr. André Felipe Amorim Passarete <br/> OAB/SP 486.663",
+        "name": "Dr. André Felipe <br/> Amorim Passarete <br/> <span class=\"text-black text-paragraph3 font-medium\">OAB/SP 486.663",
         "role": "Atuação em casos cíveis e criminais."
       },
       "member2": {
-        "name": "Dra. Marina Zanotello OAB/SP 261.731",
+        "name": "Dra. Marina Zanotello <br/> <span class=\"text-black text-paragraph3 font-medium\">OAB/SP 261.731",
         "role": "Especialista em casos criminais."
       }
     }
