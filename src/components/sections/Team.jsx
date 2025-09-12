@@ -45,7 +45,13 @@ export default function Team() {
                 <TeamMember
                   img={content.texts.team.members.member2.img.img}
                   alt={content.texts.team.members.member2.img.alt}
-                  name={t("team.members.member2.name")}
+                  name={
+                    <span
+                      dangerouslySetInnerHTML={{
+                        __html: t("team.members.member2.name"),
+                      }}
+                    />
+                  }
                   role={t("team.members.member2.role")}
                 />
               </div>
