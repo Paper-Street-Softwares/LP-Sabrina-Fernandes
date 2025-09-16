@@ -1,3 +1,4 @@
+
 import Faq from "../components/sections/Faq";
 import Hero from "../components/sections/Hero";
 import About from "../components/sections/About";
@@ -88,3 +89,4 @@ export default function Index() {
     </>
   );
 }
+// comentario
